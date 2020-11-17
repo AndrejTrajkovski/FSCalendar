@@ -31,3 +31,5 @@ fastlane/report.xml
 fastlane/screenshots
 
 Index/
+
+FSCalendar/.build/*
